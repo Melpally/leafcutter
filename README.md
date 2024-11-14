@@ -1,4 +1,4 @@
-# leafcutter
+# Leafcutter
 
 <img src="./docs/logo.png" width="200"> **Annotation-free quantification of RNA splicing.**
 
